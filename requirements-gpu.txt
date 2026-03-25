@@ -1,0 +1,9 @@
+# Magyar Beszédfelismerő — Windows (NVIDIA GPU)
+# Use this if you have an NVIDIA GPU with CUDA support
+
+faster-whisper>=1.1.0
+ctranslate2>=4.5.0
+torch>=2.0.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9

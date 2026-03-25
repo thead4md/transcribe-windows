@@ -1,0 +1,8 @@
+# Magyar Beszédfelismerő — Windows (CPU only)
+# Use this if you don't have an NVIDIA GPU
+
+faster-whisper>=1.1.0
+ctranslate2>=4.5.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
